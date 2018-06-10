@@ -1,4 +1,6 @@
 # Memorade Project
+>Memorade is a project to support people's memories. <br/>
+It consists of two projects that Memory Trigger and Memory Exercise. 
 
 ## Memory-Trigger
 Detail Inforamtion : "https://github.com/GCJN/Memory-Trigger/wiki"
