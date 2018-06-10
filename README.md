@@ -1,4 +1,4 @@
-#Memorade Project
+# Memorade Project
 
 ## Memory-Trigger
 Detail Inforamtion : "https://github.com/GCJN/Memory-Trigger/wiki"
@@ -6,6 +6,6 @@ Detail Inforamtion : "https://github.com/GCJN/Memory-Trigger/wiki"
 >Say what you want to remember. 
 >We'll let you remind.
 
-# Memory-Exercise
+## Memory-Exercise
 Detail Inforamtion : "https://github.com/GCJN/Memory-Exercise/wiki"
 >Memory Exercise is a project to improve short-term memory as part of the Memorade Project to help modern people's memory. 
